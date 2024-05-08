@@ -1,10 +1,8 @@
 ---
-title : [colmap] Unsupported gpu architecture
+title : colmap unsupported gpu architecture
 feed: show
 date : 15-04-2021
 ---
-
-## colmap - Unsupported gpu architecture 'compute_native’
 
 ### Problem
 Compiling colmap failed with error message `Unsupported gpu architecture 'compute_native’`.
