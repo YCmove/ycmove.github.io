@@ -1,5 +1,5 @@
 ---
-title : colmap Unsupported gpu architecture
+title : [colmap] Unsupported gpu architecture
 feed: show
 date : 15-04-2021
 ---
