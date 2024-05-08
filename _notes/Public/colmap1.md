@@ -1,5 +1,5 @@
 ---
-title : colmap error: parameter packs not expanded with ‘...’
+title : colmap error
 feed: show
 date : 15-04-2021
 ---
